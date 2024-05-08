@@ -36,7 +36,9 @@ def gcd():
 
 ## Output:
 
-![image](https://github.com/Sheetalshee/GCD-of-two-numbers/assets/144979107/ce1d1725-088f-4b57-8e37-9d904152d65b)
+
+![Screenshot 2024-05-08 085301](https://github.com/Sheetalshee/GCD-of-two-numbers/assets/144979107/c4eb7ef2-c48b-4d70-8174-9536a53e7315)
+
 
 
 
