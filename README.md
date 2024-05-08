@@ -14,12 +14,10 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-```
-/*
-Program to find the gcd of two number using function.
+
 Developed by: SHEETAL.R
 RegisterNumber:212223230206
-*/
+
 ~~~
 def gcd():
     n1=int(input())
@@ -35,8 +33,10 @@ def gcd():
  ~~~
 
 ## Output:
+![image](https://github.com/Sheetalshee/GCD-of-two-numbers/assets/144979107/dd85aa1c-e29f-4623-a0d0-551a87660c5c)
 
-![Screenshot 2024-05-08 085301](https://github.com/Sheetalshee/GCD-of-two-numbers/assets/144979107/1acf48c6-6ee2-43a8-83b1-279e23f6c8cf)
+
+
 
 
 ## Result:
