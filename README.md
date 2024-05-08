@@ -20,7 +20,7 @@ Program to find the gcd of two number using function.
 Developed by: SHEETAL.R
 RegisterNumber:212223230206
 */
-```
+~~~
 def gcd():
     n1=int(input())
     n2=int(input())
